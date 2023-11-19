@@ -1,18 +1,9 @@
 if(FALSE){
   '''
-  My solution to Rosalind Bioinformatics Problem 002
-  
   Title: Transcribing DNA into RNA
   Rosalind ID: RNA
   Rosalind #: 002
   URL: http://rosalind.info/problems/rna
-
-  Goal to transcribe the DNA sequence to RNA sequence.
-
-  Note - As with my python solutions, I prefer to implement
-  methods provided by some Biology specific packages.  In 
-  the case of R, Bioconductor.  For this specific instance,
-  Biostrings is the package for working with sequences.
   '''
 }
 
