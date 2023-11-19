@@ -1,7 +1,5 @@
 if(FALSE){
   "
-  My solution to Rosalind Bioinformatics Problem 004
-  
   Title: Rabbit and Recurrence Relations
   Rosalind ID: FIB
   Rosalind #: 004
@@ -14,18 +12,6 @@ if(FALSE){
 }
 
 if(FALSE){
-  "R doesn't work with objects the same way as python.
-  Values are updated immediately.  As such, one cannot 
-  iteratively update values if dependently upon the one
-  immediately prior.  To work around this, adding a third
-  digit to a vector allows for iterative reassignment and
-  allow access to the 'prior' value for the fibonacci
-  sequence.
-
-  As with the python example, I have also provided the list
-  version (although technically a vector here) to provide all
-  the values of the sequence.
-  "
 }
 
 fib = function(n,k){
