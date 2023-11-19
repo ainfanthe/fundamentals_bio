@@ -4,14 +4,6 @@ if(FALSE){
   Rosalind ID: DNA
   Rosalind #: 001
   URL: http://rosalind.info/problems/dna
-
-  Goal to count the number of each nucleotide in a string.
-  
-  Note - To my knowledge, R does not possess a means
-  for multiline comments.  As such, to avoid the hassle
-  of excessive # and computation of the useless string
-  the use of if(FALSE){} provides a workaround.  Not
-  pretty but it works.
   '''
 }
 
