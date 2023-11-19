@@ -1,13 +1,9 @@
 if(FALSE){
   "
-  My solution to Rosalind Bioinformatics Problem 003
-  
   Title: Complementing a Strand of DNA
   Rosalind ID: 
   Rosalind #: 003
   URL: http://rosalind.info/problems/revc
-
-  Goal to provide the reverse complement of a DNA string.
   "
 }
 
